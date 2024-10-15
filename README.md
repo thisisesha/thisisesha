@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a CS grad graduating in May 2025!<br>I have worked with various tech stacks, including but not limited to <br>Java, Python, MERN and AWS!<br><br>Do reach out if you have any interesting ideas that you want to <br>collaborate on!<br><br>
+I am a CS grad graduating in May 2025!<br>I have worked with various tech stacks, including but not limited to Java, Python, MERN and AWS!<br><br>Do reach out if you have any interesting ideas that you want to collaborate on!<br><br>
 
 
 ## 🌐 Socials:
