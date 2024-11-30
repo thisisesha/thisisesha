@@ -1,6 +1,8 @@
 # 💫 About Me:
-Hi there! 👋 I'm Esha, a Computer Science grad graduating in 2025. 🌟
+Hello world! 👋 
+I'm Esha, a Computer Science grad graduating in 2025 🌟
 I love exploring diverse tech stacks, and I’ve worked with Swift, Java, Python, MERN, AWS, and more!  
+
 🔭 Currently, I’m learning **Swift** to build amazing iOS apps.  
 
 💡 Feel free to reach out if you have an interesting project or idea you'd like to collaborate on!
